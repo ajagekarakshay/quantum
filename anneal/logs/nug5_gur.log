@@ -1,0 +1,47 @@
+Academic license - for non-commercial use only
+Optimize a model with 10 rows, 25 columns and 50 nonzeros
+Model has 140 quadratic objective terms
+Variable types: 0 continuous, 25 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [4e+00, 8e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 86.0000000
+Presolve time: 0.00s
+Presolved: 150 rows, 165 columns, 470 nonzeros
+Variable types: 0 continuous, 165 integer (165 binary)
+
+Root relaxation: objective 0.000000e+00, 16 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   10   86.00000    0.00000   100%     -    0s
+H    0     0                      80.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   10   80.00000    0.00000   100%     -    0s
+H    0     0                      74.0000000    0.00000   100%     -    0s
+H    0     0                      66.0000000    0.00000   100%     -    0s
+     0     0    0.00000    0   10   66.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   10   66.00000    0.00000   100%     -    0s
+H    0     0                      58.0000000    0.00000   100%     -    0s
+     0     2    0.00000    0   10   58.00000    0.00000   100%     -    0s
+
+Cutting planes:
+  Gomory: 1
+  MIR: 2
+  Zero half: 8
+
+Explored 20 nodes (325 simplex iterations) in 0.02 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 5: 58 66 74 ... 86
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.800000000000e+01, best bound 5.800000000000e+01, gap 0.0000%
+  1.503607 seconds (1.02 M allocations: 49.978 MiB, 0.88% gc time)
+
+ Solution : Optimal
+
+Objective : 58.0

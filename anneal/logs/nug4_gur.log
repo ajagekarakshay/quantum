@@ -1,0 +1,37 @@
+Academic license - for non-commercial use only
+Optimize a model with 8 rows, 16 columns and 32 nonzeros
+Model has 48 quadratic objective terms
+Variable types: 0 continuous, 16 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [8e+00, 6e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 32.0000000
+Presolve time: 0.00s
+Presolved: 56 rows, 64 columns, 176 nonzeros
+Variable types: 0 continuous, 64 integer (64 binary)
+
+Root relaxation: objective 0.000000e+00, 14 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0    8   32.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   12   32.00000    0.00000   100%     -    0s
+     0     0    0.00000    0   11   32.00000    0.00000   100%     -    0s
+     0     2    0.00000    0   11   32.00000    0.00000   100%     -    0s
+
+Explored 9 nodes (91 simplex iterations) in 0.01 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 1: 32 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.200000000000e+01, best bound 3.200000000000e+01, gap 0.0000%
+  1.477884 seconds (1.02 M allocations: 49.933 MiB, 1.09% gc time)
+
+ Solution : Optimal
+
+Objective : 32.0

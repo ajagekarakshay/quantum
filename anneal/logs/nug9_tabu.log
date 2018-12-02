@@ -1,0 +1,77 @@
+
+Objective =  [[264.]]
+Constraints satisifed :  True
+# Reads =  50
+Time taken :  0.6353359222412109  sec
+
+[[0 0 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0]
+ [1 0 0 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 0 0]
+ [0 0 0 0 0 0 1 0 0]
+ [0 1 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 1 0 0 0 0]]
+000100000000000010100000000001000000000001000000000100000000001010000000000010000
+-8.98630 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00200 seconds of classic cpu time
+81 bits,  find Min, SubMatrix= 60, -a o, timeout=2592000.0 sec
+000100000000000010100000000001000000000010000000000100010000000000000001000001000
+-8.98650 Energy of solution
+1 Number of Partitioned calls, 2 output sample 
+ 0.00700 seconds of classic cpu time
+81 bits,  find Min, SubMatrix= 60, -a o, timeout=2592000.0 sec
+000100000000000010100000000001000000000001000000000100010000000000000001000010000
+-8.98680 Energy of solution
+2 Number of Partitioned calls, 3 output sample 
+ 0.01700 seconds of classic cpu time
+
+Objective =  [[264.]]
+Constraints satisifed :  True
+# Reads =  50
+Time taken :  0.6981327533721924  sec
+
+[[0 0 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0]
+ [1 0 0 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 0 0]
+ [0 0 0 0 0 0 1 0 0]
+ [0 1 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 1 0 0 0 0]]
+010000000100000000000100000000010000000000001000000100000000010000001000001000000
+-8.98570 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00300 seconds of classic cpu time
+81 bits,  find Min, SubMatrix= 60, -a o, timeout=2592000.0 sec
+000100000000000010100000000001000000000001000000000100010000000000000001000010000
+-8.98680 Energy of solution
+2 Number of Partitioned calls, 2 output sample 
+ 0.01500 seconds of classic cpu time
+
+Objective =  [[264.]]
+Constraints satisifed :  True
+# Reads =  50
+Time taken :  0.6921207904815674  sec
+
+[[0 0 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0]
+ [1 0 0 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 0 0]
+ [0 0 0 0 0 0 1 0 0]
+ [0 1 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1]
+ [0 0 0 0 1 0 0 0 0]]
+100000000000000010000100000000010000000000001010000000000000100000001000001000000
+-8.98530 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00400 seconds of classic cpu time
+81 bits,  find Min, SubMatrix= 60, -a o, timeout=2592000.0 sec
+000100000000000010100000000001000000000001000000000100010000000000000001000010000
+-8.98680 Energy of solution
+2 Number of Partitioned calls, 2 output sample 
+ 0.02300 seconds of classic cpu time

@@ -1,0 +1,291 @@
+
+Time :  0.02191448211669922
+Objective :  300
+Original Funds :  10  Funds used :  10
+Target :  100  Achieved target :  100
+Solution =  [5, 0, 5, 0]
+0100110011001100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00000 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1010000010100000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00700 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000010010100100
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 3 output sample 
+ 0.01500 seconds of classic cpu time
+
+Time :  0.04288434982299805
+Objective :  290
+Original Funds :  10  Funds used :  10
+Target :  100  Achieved target :  100
+Solution =  [3, 1, 5, 1]
+0000011001001100
+-0.72376 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000011001000100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0100100010100100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 3 output sample 
+ 0.01100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0100110011001100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 4 output sample 
+ 0.01300 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000010010100100
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 5 output sample 
+ 0.02400 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1100100010101000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 6 output sample 
+ 0.02800 seconds of classic cpu time
+
+Time :  0.019942522048950195
+Objective :  290
+Original Funds :  10  Funds used :  10
+Target :  100  Achieved target :  100
+Solution =  [3, 1, 5, 1]
+0100001000100000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1100100010101000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00600 seconds of classic cpu time
+
+Time :  0.019946813583374023
+Objective :  176
+Original Funds :  10  Funds used :  11
+Target :  100  Achieved target :  100
+Solution =  [1, 1, 4, 5]
+0010000010000001
+-0.72326 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0100110011001100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00300 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000100000101010
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 3 output sample 
+ 0.00700 seconds of classic cpu time
+
+Time :  0.01894354820251465
+Objective :  300
+Original Funds :  10  Funds used :  10
+Target :  100  Achieved target :  100
+Solution =  [1, 2, 5, 2]
+0100110011001100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0000101000101000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00300 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000010010100100
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 3 output sample 
+ 0.00300 seconds of classic cpu time
+
+Time :  0.019942522048950195
+Objective :  300
+Original Funds :  10  Funds used :  10
+Target :  100  Achieved target :  100
+Solution =  [1, 2, 5, 2]
+0010000000101100
+-0.72377 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00100 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0000100011101000
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00300 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1100110000100000
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 3 output sample 
+ 0.00500 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0000010010101100
+-0.72384 Energy of solution
+0 Number of Partitioned calls, 4 output sample 
+ 0.00500 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000010010100100
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 5 output sample 
+ 0.00500 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1000010010100100
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 6 output sample 
+ 0.01700 seconds of classic cpu time
+
+Time :  0.02094888687133789
+Objective :  290
+Original Funds :  10  Funds used :  10
+Target :  100  Achieved target :  100
+Solution =  [3, 1, 5, 1]
+0100010001000110
+-0.72361 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00000 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1100010011001100
+-0.72375 Energy of solution
+0 Number of Partitioned calls, 2 output sample 
+ 0.00200 seconds of classic cpu time
+16 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+1100100010101000
+-0.72388 Energy of solution
+0 Number of Partitioned calls, 3 output sample 
+ 0.00600 seconds of classic cpu time
+
+Time :  0.019966602325439453
+Objective :  360.0
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [0.0, 0.0, 6.0, 4.0]
+0000000000000000001100000010
+-0.72388 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.01800 seconds of classic cpu time
+
+Time :  0.016948223114013672
+Objective :  298.375
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [4.625, 0.5, 4.875, 0.0]
+1010010001000011100100000000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.01500 seconds of classic cpu time
+
+Time :  0.03191351890563965
+Objective :  290.0
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [3.0, 1.0, 5.0, 1.0]
+001100001000001010001000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.03000 seconds of classic cpu time
+
+Time :  0.02293848991394043
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  346.171875
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0625
+Solution =  [0.5625, 4.75, 4.0, 0.6875]
+10010000001100100000001011010000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02100 seconds of classic cpu time
+
+Time :  0.022934675216674805
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  306.8125
+Original Funds :  10  Funds used :  9.9375
+Target :  100  Achieved target :  100.0
+Solution =  [2.3125, 0.3125, 5.5, 1.8125]
+10100100101000000001101010111000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02100 seconds of classic cpu time
+
+Time :  0.027962446212768555
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  289.9375
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [2.9375, 0.875, 5.0625, 1.125]
+11110100011100001000101001001000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02700 seconds of classic cpu time
+
+Time :  0.02991962432861328
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  476.9296875
+Original Funds :  10  Funds used :  10.375
+Target :  100  Achieved target :  100.0
+Solution =  [0.0, 8.0625, 2.25, 0.0625]
+00000000100000010010010010000000
+-10099.81168 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02900 seconds of classic cpu time
+
+Time :  0.023946762084960938
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  300.9375
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [0.9375, 1.875, 5.0625, 2.125]
+11110000011110001000101001000100
+-10099.96991 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02300 seconds of classic cpu time
+
+Time :  0.029919862747192383
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  329.625
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [0.25, 4.25, 4.25, 1.25]
+00100000001000100010001000101000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02700 seconds of classic cpu time
+
+Time :  0.029920578002929688
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  335.5625
+Original Funds :  10  Funds used :  9.9375
+Target :  100  Achieved target :  100.0
+Solution =  [1.0625, 4.0625, 4.25, 0.5625]
+10001000100000100010001010010000
+-0.72391 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.02800 seconds of classic cpu time
+
+Time :  163.647314786911
+Variables = Linear terms = 32
+Quadratic terms =  496
+Objective :  292.90625
+Original Funds :  10  Funds used :  10.0
+Target :  100  Achieved target :  100.0
+Solution =  [4.125, 0.125, 5.125, 0.625]
+01000010010000000100101001010000
+-0.72391 Energy of solution
+99 Number of Partitioned calls, 1 output sample 
+163.64600 seconds of classic cpu time

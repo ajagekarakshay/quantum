@@ -1,0 +1,52 @@
+
+Objective =  [[340.]]
+Constraints satisifed :  True
+# Reads =  50
+Time taken :  0.7041225433349609  sec
+
+[[0 0 0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0 0]
+ [1 0 0 0 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 0 0 0]
+ [0 0 0 0 0 0 1 0 0 0]
+ [0 1 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1 0]
+ [0 0 0 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 1]] 
+
+0000000001010000000000100000000000000010000001000010000000000000000100000000100000001000000001000000
+-9.98210 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.00800 seconds of classic cpu time
+100 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0000000001000000100001000000000000000010000001000000000001001000000000001000000000001000000001000000
+-9.98250 Energy of solution
+1 Number of Partitioned calls, 2 output sample 
+ 0.02800 seconds of classic cpu time
+100 bits,  find Min, SubMatrix= 64, -a o, timeout=2592000.0 sec
+0001000000000000010010000000000010000000000001000000000010000100000000000000001000001000000000000001
+-9.98300 Energy of solution
+3 Number of Partitioned calls, 3 output sample 
+ 0.04900 seconds of classic cpu time
+
+Objective =  [[340.]]
+Constraints satisifed :  True
+# Reads =  50
+Time taken :  0.758019208908081  sec
+
+[[0 0 0 1 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0 0]
+ [1 0 0 0 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0 0 0]
+ [0 0 0 0 0 1 0 0 0 0]
+ [0 0 0 0 0 0 1 0 0 0]
+ [0 1 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1 0]
+ [0 0 0 0 1 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 1]] 
+
+0001000000000000010010000000000010000000000001000000000010000100000000000000001000001000000000000001
+-9.98300 Energy of solution
+0 Number of Partitioned calls, 1 output sample 
+ 0.01500 seconds of classic cpu time
